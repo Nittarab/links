@@ -4,6 +4,7 @@
 
 ## Rspec
 
+- [Describe vs. context in rspec][11]
 - [Making Rspec fast while using seeded data – Open House – Medium][1]
 - [Cleaner and More Maintainable RSpec – Yoel Blum – Medium][5]
 - [An opinionated guide to readable RSpec (part 1 of 2)][6]
@@ -33,3 +34,4 @@
 [8]:https://medium.com/@lukepierotti/setting-up-rspec-and-factory-bot-3bb2153fb909
 [9]:https://medium.com/pootsy/we-divided-the-time-of-our-rspec-test-suite-by-9-c7f991852c9a
 [10]:https://medium.com/@tmikeschu/testing-html5-messages-with-rspec-selenium-5f5834c5af10
+[11]:http://lmws.net/describe-vs-context-in-rspec
